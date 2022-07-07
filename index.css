@@ -1,0 +1,35 @@
+.inicial {
+    background-color: rgb(59, 59, 138);
+    text-align: center;
+
+}
+
+#btn1 {
+    height: 50px;
+    width: 20%;
+    font-family: monospace, 'sans-serif';
+    border: 1px solid;
+    font: 10px;
+}
+
+#btn2 {
+    height: 50px;
+    width: 20%;
+    font-family: monospace, 'sans-serif';
+}
+
+#btn_zerar {
+    height: 50px;
+    width: 20%;
+    font-family: monospace, 'sans-serif';
+}
+
+.p {
+   color: aliceblue;
+   
+}
+#contador{
+    color: aliceblue;
+    font-family: monospace, 'sans-serif';
+    font: 20%;
+}
